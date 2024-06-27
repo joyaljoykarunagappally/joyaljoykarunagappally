@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @joyaljoykarunagappally
-- 👀 I’m interested in finding more real world problems into software solutions.
-- 🌱 I’m currently learning Python, Dotnet core, Angular and Django
-- 💞️ I’m looking to collaborate on any one who intrested in developing.
+![image](https://github.com/joyaljoykarunagappally/joyaljoykarunagappally/assets/134049618/3550b8da-4b63-43f8-9a0c-503a0b19ebe8)- 👋 Hi, I’m @joyaljoykarunagappally!
+- 👀 I’m passionate about solving real-world problems with software solutions.
+- 🌱 I’m currently learning Python, .NET Core, Angular, and Django.
+- 💞️ I’m looking to collaborate with anyone interested in development projects.
 - 📫 How to reach me joyaljoykarunagappally@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact:
+- 😄 Pronouns: 🔗j_o_y_a_l___j_o_y
+- ⚡ Fun fact: The term "bug" in computer science originates from an incident in 1947 where a moth caused a malfunction in the Harvard Mark II computer. Engineers literally "debugged" the system by removing the moth, coining the term we use today for fixing software issues.
 
