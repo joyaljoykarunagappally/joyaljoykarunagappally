@@ -1,4 +1,4 @@
-![image](https://github.com/joyaljoykarunagappally/joyaljoykarunagappally/assets/134049618/3550b8da-4b63-43f8-9a0c-503a0b19ebe8)- 👋 Hi, I’m @joyaljoykarunagappally!
+- 👋 Hi, I’m @joyaljoykarunagappally!
 - 👀 I’m passionate about solving real-world problems with software solutions.
 - 🌱 I’m currently learning Python, .NET Core, Angular, and Django.
 - 💞️ I’m looking to collaborate with anyone interested in development projects.
