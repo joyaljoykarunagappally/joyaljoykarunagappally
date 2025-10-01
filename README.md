@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joyaljoykarunagappally!
 - 👀 I’m passionate about solving real-world problems with software solutions.
-- 🌱 I’m currently learning Python, .NET Core, Angular, and Django.
+- 🌱 I’m currently learning .NET Core, Angular, React and Django.
 - 💞️ I’m looking to collaborate with anyone interested in development projects.
 - 📫 How to reach me joyaljoykarunagappally@gmail.com
 - 😄 Pronouns: 🔗j_o_y_a_l___j_o_y
